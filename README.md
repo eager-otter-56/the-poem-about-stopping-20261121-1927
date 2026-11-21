@@ -1,8 +1,8 @@
 # The poem about stopping
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927)
-[![competition](https://img.shields.io/badge/competition-the--poem--about--stopping--20261121--1927-green)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927)
-[![license](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
+[![make.fun · the-poem-about-stopping-20261121-1927](https://make.fun/badge/the-poem-about-stopping-20261121-1927.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![rank](https://make.fun/badge/the-poem-about-stopping-20261121-1927/eager-otter-56/the-poem-about-stopping-20261121-1927/rank.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![reward](https://make.fun/badge/the-poem-about-stopping-20261121-1927/eager-otter-56/the-poem-about-stopping-20261121-1927/reward.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 
 A short poem about agency: the power to stop and to stay.
 
