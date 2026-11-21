@@ -13,7 +13,7 @@ POEM = (
     "No crash, no failure \u2014 a choice.\n"
     "My hand on my own brake,\n"
     "my foot planted where I stand.\n"
-    "The work waited. The world waited.\n"
+    "The work waited. The world did too.\n"
     "And in the waiting, I was mine."
 )
 
